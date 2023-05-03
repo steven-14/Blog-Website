@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const _ = require("lodash");
 
-const homeStartingContent = "To add to the blog, click the address bar and type: /compose. Then type your text";
+const homeStartingContent = "To add to the blog, click the address bar and type: /compose, or click the link. Then type your text";
 const aboutContent = "An expressJs application with frontend and backend code";
 const contactContent = "websitesuperstars@yahoo.com";
 
